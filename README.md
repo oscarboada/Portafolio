@@ -1,3 +1,9 @@
+**About me**
+
+<p>Soy un estudiante que le gusta aprender, aplicado y con ganas de trabajar, estoy estudiando DAM (Desarroyo de aplicaciones mobiles).
+Mi aspiración es comprender y desarroyar una IA, ya que veo que es una salida laboral muy buena y con muchas oportunidades,
+por  eso ya tengo alguna idea de que hacer cuando tenga todo el conocimiento de este curso DAM.</p>
+
 # Portafolio
 Este es mi portafolio
 <ul>
