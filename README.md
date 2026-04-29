@@ -5,12 +5,11 @@ Mi aspiración es comprender y desarroyar una IA, ya que veo que es una salida l
 por  eso ya tengo alguna idea de que hacer cuando tenga todo el conocimiento de este curso DAM.</p>
 
 **Tecnologias que he utilizado**
-<ul>
-    <li>Python</li>
-    <li>HTML y CSS</li>
-    <li>Java</li>
-</ul>
+Llenguatges: Python, Java, HTML5, CSS3.
 
+Eines: Git, GitHub, VS Code, IntelliJ IDEA.
+
+Sistemes: Windows, Linux
 # Portafolio
 Este es mi portafolio
 <ul>
