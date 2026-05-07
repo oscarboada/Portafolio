@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Oscar Boada
+# 👋 ¡Hola! soy Oscar Boada
 ### Estudiante de DAM | Entusiasta de la IA | Developer en proceso
 
 ---
