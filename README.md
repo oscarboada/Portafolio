@@ -1,21 +1,54 @@
-**About me**
+# 👋 ¡Hola! Soy Oscar Boada
+### Estudiante de DAM | Entusiasta de la IA | Developer en proceso
 
-<p>Soy un estudiante que le gusta aprender, aplicado y con ganas de trabajar, estoy estudiando DAM (Desarroyo de aplicaciones mobiles).
-Mi aspiración es comprender y desarroyar una IA, ya que veo que es una salida laboral muy buena y con muchas oportunidades,
-por  eso ya tengo alguna idea de que hacer cuando tenga todo el conocimiento de este curso DAM.</p>
+---
 
-**Tecnologias que he utilizado**
-<ul>
-    Lenguajes: Python, Java, HTML5, CSS3.
+## 👤 Sobre mí
+Soy un estudiante **aplicado, con gran capacidad de aprendizaje** y muchas ganas de aportar valor en el mundo laboral. Actualmente curso **DAM (Desarrollo de Aplicaciones Multiplataforma)**.
 
-    Herramientas: Git, GitHub, VS Code, IntelliJ IDEA.
+Mi gran meta es **comprender y desarrollar Inteligencia Artificial**. Estoy convencido de que es el motor del futuro y ya estoy trazando el camino para aplicar mis conocimientos de DAM en este campo tan prometedor. ¡El aprendizaje no se detiene!
 
-    Sistemas: Windows, Linux.
-</ul>
-# Portafolio
-Este es mi portafolio
-<ul>
-    <li>Practica Pyton: ¡Only Jump!--> https://github.com/La-Salle-Gracia-FP/25-26-python-game-oscarboada.git </li>
-    <li>Currículum Web: Creación de un currículum en HTML--> https://github.com/LSG-markup-lang/0373-dam-pr1-oscarboada.git </li>
-    <li>Juego de cartas Java: Aplicación de los diferentes conocimientos que hemos obtenido--> https://github.com/oscarboada/juego_cartas_java.git</li>
-</ul>
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Herramientas y Entornos
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🖥️ Sistemas Operativos
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Mis Proyectos Destacados
+
+| Proyecto | Descripción | Enlace |
+| :--- | :--- | :--- |
+| **🎮 Only Jump!** | Práctica de Python: Un juego dinámico poniendo a prueba la lógica de programación. | [Ver Repositorio](https://github.com/La-Salle-Gracia-FP/25-26-python-game-oscarboada.git) |
+| **📄 Currículum Web** | Creación de un CV profesional utilizando HTML5 puro. | [Ver Repositorio](https://github.com/LSG-markup-lang/0373-dam-pr1-oscarboada.git) |
+| **🃏 Juego de Cartas** | Aplicación de POO y lógica avanzada en Java. | [Ver Repositorio](https://github.com/oscarboada/juego_cartas_java.git) |
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de Oscar](https://github-readme-stats.vercel.app/api?username=oscarboada&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarboada&layout=compact&theme=radical)
+
+---
+
+## 📫 Cómo contactarme
+*   **LinkedIn:** [Tu Perfil Aquí](https://linkedin.com/in/tu-usuario)
+*   **Email:** tu-email@ejemplo.com
+
+---
+*Este porfolio está en constante evolución, ¡como mi código!* 🚀
