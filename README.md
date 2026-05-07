@@ -40,15 +40,9 @@ Mi gran meta es **comprender y desarrollar Inteligencia Artificial**. Estoy conv
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de Oscar](https://github-readme-stats.vercel.app/api?username=oscarboada&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarboada&layout=compact&theme=radical)
-
----
-
 ## 📫 Cómo contactarme
-*   **LinkedIn:** [Tu Perfil Aquí](https://linkedin.com/in/tu-usuario)
-*   **Email:** tu-email@ejemplo.com
+*   **LinkedIn:** www.linkedin.com/in/oscar-boada-788993388
+*   **Email:** oscar.boada.2006@gmail.com
 
 ---
 *Este porfolio está en constante evolución, ¡como mi código!* 🚀
